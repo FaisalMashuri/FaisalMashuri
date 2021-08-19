@@ -2,9 +2,6 @@
 
 - 🔭 I’m currently Studying on Universitas Singaperbangsa Karawang
 - 🌱 I’m currently learning Data Scientist and Backend Developer
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/faisal-mashuri/) 
 - 😄 Pronouns: He/His
 <!--
