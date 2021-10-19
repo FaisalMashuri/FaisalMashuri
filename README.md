@@ -3,7 +3,7 @@
 - 🔭 I’m currently Studying on Universitas Singaperbangsa Karawang
 - 🌱 I’m currently learning Data Scientist and Backend Developer
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/faisal-mashuri/) 
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 <!--
 **FaisalMashuri/FaisalMashuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
