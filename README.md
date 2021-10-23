@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalmashuri&show_icons=true&locale=en&layout=compact" alt="faisalmashuri" /></p>
 
 <!-- ![Profile views](https://gpvc.arturio.dev/FaisalMashuri) -->
-![Metrics](https://my-personal-domain.com/FaisalMashuri)
+[![Faisal Mashuri Medium](https://github-readme-medium.vercel.app/?username=FaisalMashuri)](https://https://faisalmashuri.medium.com/)
