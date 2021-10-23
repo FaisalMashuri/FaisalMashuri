@@ -44,4 +44,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<img align="center" src="@FaisalMashuri&compact=True">https://github-readme-stats.vercel.app/api/wakatime?username=@FaisalMashuri&compact=True"/>
+## My Wakatime Stats ⌚
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="@faisalmashuri&compact=True">https://github-readme-stats.vercel.app/api/wakatime?username=faisalmashuri&compact=True"/>
+</a>
