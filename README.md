@@ -40,5 +40,5 @@ Here are some ideas to get you started:
 <h3 align="left">Github Stats :</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faisalmashuri&show_icons=true&locale=en" alt="faisalmashuri" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faisalmashuri&show_icons=true&locale=en&layout=compact" alt="faisalmashuri" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalmashuri&show_icons=true&locale=en&layout=compact" alt="faisalmashuri" /></p>
 
