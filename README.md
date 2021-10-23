@@ -1,4 +1,4 @@
-### Hi there I'm Faisal Mashuri👋
+### Hi there I'm Faisal Mashuri <img src="https://raw.githubusercontent.com/FaisalMashuri/FaisalMashuri/main/wave.gif" width="30px">👋
 
 - 🔭 I’m currently Studying on Universitas Singaperbangsa Karawang
 - 🌱 I’m currently learning Data Scientist and Backend Developer
