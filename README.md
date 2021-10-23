@@ -42,5 +42,6 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalmashuri&show_icons=true&locale=en&layout=compact" alt="faisalmashuri" /></p>
 
-<br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=faisalmashuri)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+<p>[![trophy](https://github-profile-trophy.vercel.app/?username=faisalmashuri)](https://github.com/ryo-ma/github-profile-trophy)</p>
