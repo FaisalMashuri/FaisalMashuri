@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 -->
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=FaisalMashuri&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> --> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=FaisalMashuri&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> -->
 <h1 align="center">Hi 👋, I'm Faisal Mashuri</h1>
 <h3 align="center">A passionate Machine Learning Engineer and Backend Developer</h3>
 
