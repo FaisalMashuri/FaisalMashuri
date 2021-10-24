@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=FaisalMashuri&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> -->
 <h1 align="center">Hi Tech Entushiast👋</h1>
-<h3 align="center">I'm Faisal Mashuri, a Computer Science Student 🎓💻 from Indonesia. I'm interest in Software Engineering and really enjoy exploring any tech stack. I am more side lean toward Backend Engineering and Machine Learning Engineer passionate about building products with focus on technical solutions. My current plan would be working a lot in engineering while also learn product dev on the other side</h3>
+<h3 align="center">I'm Faisal Mashuri, a Computer Science Student 🎓💻 from Indonesia. I'm interest in Software Engineering and really enjoy exploring any tech stack.I am more side lean toward Backend Engineering and Machine Learning Engineer and passionate about building products with focus on technical solutions. My current plan would be working a lot in engineering while also learn product dev on the other side</h3>
 
 - 🌱 I’m currently learning **Data Science with Machine Learning and Deep Learning**
 
