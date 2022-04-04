@@ -17,6 +17,8 @@ if __name__ == '__main__':
     me = Me()
 ```
 
+<div></div>
+
 - 🌱 I’m currently learning **Data Science with Machine Learning and Deep Learning**
 
 - 📝 I regularly write articles on [https://faisalmashuri.medium.com/](https://faisalmashuri.medium.com/)
