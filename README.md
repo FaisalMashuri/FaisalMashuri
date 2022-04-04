@@ -2,7 +2,7 @@
 <br />
 <h2 align="center">I'm Faisal Mashuri, a Computer Science Student 🎓💻 from Indonesia. I'm interest in Software Engineering and really enjoy exploring any tech stack.</h2>
 
-```
+```python
 class Me():
     
   def __init__(self):
