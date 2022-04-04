@@ -2,20 +2,7 @@
 <br />
 <h2 align="center">I'm Faisal Mashuri, a Computer Science Student 🎓💻 from Indonesia. I'm interest in Software Engineering and really enjoy exploring any tech stack.</h2>
 <br>
-``` python
-class Me():
-    
-  def __init__(self):
-    self.name = "Faisal Mashuri";
-    self.username = "FaisalMashuri";
-    self.location = "Bekasi, Indonesia";
-  
-  def __str__(self):
-    return self.name
 
-if __name__ == '__main__':
-    me = Me()
-```
 
 <div></div>
 
