@@ -55,8 +55,8 @@
 
 <h2 align="center">Connect With Me</h2>
 <p align="center">
-<a href="https://linkedin.com/in/faisal-mashuri"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:faisalmashuri16@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/faisal-mashuri"><img src="https://img.shields.io/badge/-Faisal%20Mashuri-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:faisalmashuri16@gmail.com"><img src="https://img.shields.io/badge/-faisalmashuri16@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://medium.com/@faisalmashuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@faisalmashuri" height="30" width="40" /></a>
 </p>
 <!-- <h1 align="center">Hi Tech Entushiast👋</h1>
