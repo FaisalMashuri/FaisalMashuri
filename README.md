@@ -14,7 +14,6 @@ class Me():
 
 if __name__ == '__main__':
     me = Me()
-```
 <br>
 
 
