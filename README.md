@@ -66,7 +66,7 @@ if __name__ == '__main__':
 </p>
 <br>
 
-[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=FaisalMashuri&custom_title=Faisal%20Mashuri%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
+[![Faisal Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=FaisalMashuri&custom_title=Faisal%20Mashuri%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]
 
 <h2 align="center">Connect With Me</h2>
 <p align="center">
