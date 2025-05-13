@@ -58,15 +58,6 @@ if __name__ == '__main__':
 
 <p align="center"><img src="https://profile-counter.glitch.me/{FaisalMashuri}/count.svg" alt="Faisal Mashuri :: Visitor's Count" /></p>
 
-<br/>
-<p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=FaisalMashuri&show_icons=true&theme=gruvbox&hide_border=true" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=FaisalMashuri&theme=gruvbox&hide_border=true" />
-
-</p>
-<br>
-
-[![Faisal Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=FaisalMashuri&custom_title=Faisal%20Mashuri%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]
 
 <h2 align="center">Connect With Me</h2>
 <p align="center">
@@ -101,7 +92,10 @@ if __name__ == '__main__':
 
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/dfce520b90ed1a9bc7090449022562aaf9d81b35e8796f6ab018954d8baf654f/68747470733a2f2f73332e75732d656173742d312e616d617a6f6e6177732e636f6d2f61636372656469626c652d6170692d74656d706c617465732f31353738343238343034383333323931353338363937333334333832373237322e706e67"><img align="top" src="https://camo.githubusercontent.com/dfce520b90ed1a9bc7090449022562aaf9d81b35e8796f6ab018954d8baf654f/68747470733a2f2f73332e75732d656173742d312e616d617a6f6e6177732e636f6d2f61636372656469626c652d6170692d74656d706c617465732f31353738343238343034383333323931353338363937333334333832373237322e706e67" height="25px" data-canonical-src="https://s3.us-east-1.amazonaws.com/accredible-api-templates/15784284048332915386973343827272.png" style="max-width: 100%;"></a> <a href="https://www.credential.net/1cbe8157-5f7a-4cf3-af17-58baec60a1e6"> &nbsp; Tensorflow Developer Certified</a>
   
+<h3 align="left">Github Stats :</h3>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faisalmashuri&show_icons=true&locale=en" alt="faisalmashuri" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalmashuri&show_icons=true&locale=en&layout=compact" alt="faisalmashuri" /></p>
 
  -->
 
